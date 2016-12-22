@@ -12,7 +12,7 @@
 		<property name="jdbcDriver" value="com.mysql.jdbc.Driver" />
 		<property name="jdbcUsername" value="root" />
 		<property name="jdbcPassword" value="" />
-		<property name="databaseSchemaUpdate" value="true"/>
+		<property name="databaseSchemaUpdate" value="false"/>
 
 		<!-- email 配置 -->
 		<property name="mailServerHost" value="smtp.gmail.com" />

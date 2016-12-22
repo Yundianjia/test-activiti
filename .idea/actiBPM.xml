@@ -4,13 +4,22 @@
     <stateFile url="file://$PROJECT_DIR$/src/test/resources/bpmn/First.bpmn">
       <view grid="false" />
     </stateFile>
+    <stateFile url="file://$PROJECT_DIR$/src/main/resources/bpmn/MyProcessWithException.bpmn">
+      <view grid="false" />
+    </stateFile>
+    <stateFile url="file://$PROJECT_DIR$/src/test/resources/bpmn/MyProcess.bpmn">
+      <view grid="false" />
+    </stateFile>
     <stateFile url="file://$PROJECT_DIR$/src/main/resources/bpmn/MyProcess.bpmn">
       <view grid="false" />
     </stateFile>
     <stateFile url="file://$PROJECT_DIR$/src/main/resources/bpmn/First.bpmn">
       <view grid="false" />
     </stateFile>
-    <stateFile url="file://$PROJECT_DIR$/src/main/resources/bpmn/MyProcess.bpmn">
+    <stateFile url="file://$PROJECT_DIR$/src/main/resources/bpmn/effectInsurance.bpmn">
+      <view grid="false" />
+    </stateFile>
+    <stateFile url="file://$PROJECT_DIR$/src/test/resources/bpmn/MyProcessWithFull.bpmn">
       <view grid="false" />
     </stateFile>
   </component>

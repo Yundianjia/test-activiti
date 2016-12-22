@@ -6,5 +6,41 @@
 	<classpathentry excluding="**/*.java" kind="src" output="target/test-classes" path="src/test/resources"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Activiti Designer Extensions"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/activiti-bpmn-converter-5.22.0.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/activiti-bpmn-model-5.22.0.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/activiti-engine-5.22.0.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/activiti-image-generator-5.22.0.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/activiti-process-validation-5.22.0.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/activiti-spring-5.22.0.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/commons-email-1.4.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/commons-pool-1.5.4.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/groovy-all-2.4.3.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/h2-1.3.168.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/jackson-annotations-2.2.3.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/jackson-core-2.2.3.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/jackson-databind-2.2.3.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/javax.mail-1.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/jcl-over-slf4j-1.7.6.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/joda-time-2.6.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/mybatis-3.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/mysql-connector-java-5.1.27.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/slf4j-api-1.7.6.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/slf4j-jdk14-1.7.6.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/spring-aop-4.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/spring-beans-4.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/spring-context-4.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/spring-core-4.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/spring-expression-4.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/spring-jdbc-4.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/spring-orm-4.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/spring-test-4.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/xiajian/works/workspace/test-activiti/target/dependency/spring-tx-4.1.5.RELEASE.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
